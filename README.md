@@ -1,4 +1,4 @@
-## Olá 👋, bem vindo ao meu perfil!!
+## Olá 👋, bem vindo ao meu perfil!
 
 - 🧠 Atualmente estudo sobre Inteligência Artificial e Machine Learning
 - 👨‍🎓 Estou cursando Engenharia de Software
