@@ -4,7 +4,5 @@
 - 👨‍🎓 Curso Engenharia de Software
 - 💻 .
 
-- 📫 Meu LinkedIn: <div><a href="https://www.linkedin.com/in/valentin-antunes-279a30207" target="_blank">            
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-                 height="40" width="80" align="left" /></a></div>
+- 📫 Meu LinkedIn: <div><a href="https://www.linkedin.com/in/valentin-antunes-279a30207" target="_blank" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" width="80" align="left"/></a></div>
           
